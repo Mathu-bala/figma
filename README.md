@@ -1,2 +1,2 @@
-# figma
+# cognifz figma
 Intership
