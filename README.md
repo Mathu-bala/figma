@@ -1,2 +1,2 @@
-# cognifz figma
+#Cognifyz Technologies
 Intership
